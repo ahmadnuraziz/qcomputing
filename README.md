@@ -1,3 +1,22 @@
 # Quantum Computing
-This project is about quantum computing simulation that is qubit generator and quantum gates on qubit states.  Quantum gates only for single, two, and three-qubit. But we can make an n-qubit state simply.
-Qubit $|0>$ state definition conventionally as array 2x1 $[1,0]$ and qubit 1 as $[0,1]$
+This project is about quantum computing simulation that is qubit generator and quantum gates on qubit states.  Quantum gates only for single, two, and three-qubit. But we can make an n-qubit state simply. Then I use qubit generator and quantum gates to construct one of Bell State.
+
+## Qubit State
+   - |0> as matrix [1,0]
+   - |1> as matrix [0,1]
+
+## Quantum Gates
+1. Single-qubit
+   - Identity gate
+   - Pauli gate
+   - Phase gate
+   - U gate
+   - Hadamard gate
+2. Two-qubit
+   - Controlled-phase gate
+   - CNOT gate
+3. Three-qubit
+   - Toffoli gate
+   - Fredkin gate
+
+ 
