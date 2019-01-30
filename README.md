@@ -20,3 +20,4 @@ This project is about quantum computing simulation that is qubit generator and q
    - Fredkin gate
 
  
+#### Another features are in progress
