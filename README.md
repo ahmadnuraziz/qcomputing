@@ -1,5 +1,5 @@
 # Quantum Computing
-This project is about quantum computing simulation that is qubit generator and quantum gates on qubit states.  Quantum gates only for single, two, and three-qubit. But we can make an n-qubit state simply. Then I use qubit generator and quantum gates to construct one of Bell State.
+This project is about quantum computing simulation that is qubit generator and quantum gates on qubit states. Then I use qubit generator and quantum gates to construct one of Bell State.
 
 ## Qubit State
    - |0> as matrix [1,0]
